@@ -133,3 +133,5 @@ def adding_to_dennis
      return programmer_hash
 
 end
+
+return programmer_hash
